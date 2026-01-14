@@ -10,6 +10,8 @@ This package is especially useful for:
 
 ## Demo
 
+![Demo screenshot](assets/9480.png)
+
 [Watch the example video](assets/Simulator%20Screen%20Recording%20-%20iPhone%2017%20Pro%20-%202026-01-14%20at%2023.21.37.mp4)
 
 ## Features

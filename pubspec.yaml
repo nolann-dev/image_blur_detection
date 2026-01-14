@@ -1,6 +1,6 @@
 name: image_blur_detection
 description: A pure Dart package to detect blur, brightness, and contrast issues in images with configurable thresholds. Perfect for card scanning, document scanning, and photo validation.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/nolann-dev/image_blur_detection
 repository: https://github.com/nolann-dev/image_blur_detection
 issue_tracker: https://github.com/nolann-dev/image_blur_detection/issues
