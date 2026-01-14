@@ -1,3 +1,4 @@
 # Ignore example Flutter app from pub.dev package
 # The example/example.dart file is sufficient for pub.dev
 example_app/
+assets/
